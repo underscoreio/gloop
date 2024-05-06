@@ -1,9 +1,9 @@
 name         := "slickless"
 organization := "io.underscore"
 version      := "0.3.7-SNAPSHOT"
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.14"
 
-crossScalaVersions := Seq("2.11.12", "2.12.10", "2.13.1")
+crossScalaVersions := Seq("2.11.12", "2.12.10", "2.13.14")
 
 licenses += ("Apache-2.0", url("http://apache.org/licenses/LICENSE-2.0"))
 
